@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/kiruthigaa15/Leetcode-/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/kiruthigaa15/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kiruthigaa15/Leetcode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kiruthigaa15/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kiruthigaa15/Leetcode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Simulation
 |  |
 | ------- |
