@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/kiruthigaa15/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [1154-day-of-the-year](https://github.com/kiruthigaa15/Leetcode-/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1678-goal-parser-interpretation](https://github.com/kiruthigaa15/Leetcode-/tree/master/1678-goal-parser-interpretation) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Greedy
