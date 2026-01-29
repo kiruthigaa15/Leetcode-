@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/kiruthigaa15/Leetcode-/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kiruthigaa15/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kiruthigaa15/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sliding Window
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Greedy
 |  |
 | ------- |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
