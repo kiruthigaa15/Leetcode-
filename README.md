@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/kiruthigaa15/Leetcode-/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kiruthigaa15/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kiruthigaa15/Leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kiruthigaa15/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Sliding Window
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/kiruthigaa15/Leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
