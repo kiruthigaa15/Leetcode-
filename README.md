@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kiruthigaa15/Leetcode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/kiruthigaa15/Leetcode-/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kiruthigaa15/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kiruthigaa15/Leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
