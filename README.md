@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/kiruthigaa15/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kiruthigaa15/Leetcode-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kiruthigaa15/Leetcode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
