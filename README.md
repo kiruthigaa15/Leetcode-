@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiruthigaa15/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/kiruthigaa15/Leetcode-/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kiruthigaa15/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kiruthigaa15/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kiruthigaa15/Leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/kiruthigaa15/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kiruthigaa15/Leetcode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
