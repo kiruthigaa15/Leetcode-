@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/kiruthigaa15/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1859-sorting-the-sentence](https://github.com/kiruthigaa15/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kiruthigaa15/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1598-crawler-log-folder](https://github.com/kiruthigaa15/Leetcode-/tree/master/1598-crawler-log-folder) |
 | [1678-goal-parser-interpretation](https://github.com/kiruthigaa15/Leetcode-/tree/master/1678-goal-parser-interpretation) |
+| [1859-sorting-the-sentence](https://github.com/kiruthigaa15/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/2255-count-prefixes-of-a-given-string) |
