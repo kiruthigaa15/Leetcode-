@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kiruthigaa15/Leetcode-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1678-goal-parser-interpretation](https://github.com/kiruthigaa15/Leetcode-/tree/master/1678-goal-parser-interpretation) |
 | [1859-sorting-the-sentence](https://github.com/kiruthigaa15/Leetcode-/tree/master/1859-sorting-the-sentence) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kiruthigaa15/Leetcode-/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kiruthigaa15/Leetcode-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
