@@ -194,4 +194,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1991-find-the-middle-index-in-array) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
