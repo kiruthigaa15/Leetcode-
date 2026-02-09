@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1184-distance-between-bus-stops](https://github.com/kiruthigaa15/Leetcode-/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/kiruthigaa15/Leetcode-/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/kiruthigaa15/Leetcode-/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kiruthigaa15/Leetcode-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1207-unique-number-of-occurrences](https://github.com/kiruthigaa15/Leetcode-/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kiruthigaa15/Leetcode-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
