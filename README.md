@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kiruthigaa15/Leetcode-/tree/master/0704-binary-search) |
 | [0942-di-string-match](https://github.com/kiruthigaa15/Leetcode-/tree/master/0942-di-string-match) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kiruthigaa15/Leetcode-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/kiruthigaa15/Leetcode-/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/kiruthigaa15/Leetcode-/tree/master/1046-last-stone-weight) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1200-minimum-absolute-difference](https://github.com/kiruthigaa15/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
+| [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/kiruthigaa15/Leetcode-/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/kiruthigaa15/Leetcode-/tree/master/1154-day-of-the-year) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kiruthigaa15/Leetcode-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
+| [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kiruthigaa15/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/kiruthigaa15/Leetcode-/tree/master/1037-valid-boomerang) |
 ## Linked List
 |  |
