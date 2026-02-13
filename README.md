@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/kiruthigaa15/Leetcode-/tree/master/0086-partition-list) |
 | [0696-count-binary-substrings](https://github.com/kiruthigaa15/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0942-di-string-match](https://github.com/kiruthigaa15/Leetcode-/tree/master/0942-di-string-match) |
 ## Trie
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kiruthigaa15/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/kiruthigaa15/Leetcode-/tree/master/0086-partition-list) |
 ## Prefix Sum
 |  |
 | ------- |
