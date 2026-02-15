@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [0812-largest-triangle-area](https://github.com/kiruthigaa15/Leetcode-/tree/master/0812-largest-triangle-area) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/kiruthigaa15/Leetcode-/tree/master/1037-valid-boomerang) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1646-get-maximum-in-generated-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiruthigaa15/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/kiruthigaa15/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0942-di-string-match](https://github.com/kiruthigaa15/Leetcode-/tree/master/0942-di-string-match) |
 | [1154-day-of-the-year](https://github.com/kiruthigaa15/Leetcode-/tree/master/1154-day-of-the-year) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kiruthigaa15/Leetcode-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1720-decode-xored-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1720-decode-xored-array) |
 ## Stack
