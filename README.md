@@ -276,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/kiruthigaa15/Leetcode-/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
