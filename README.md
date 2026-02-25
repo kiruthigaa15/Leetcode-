@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kiruthigaa15/Leetcode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kiruthigaa15/Leetcode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/kiruthigaa15/Leetcode-/tree/master/1598-crawler-log-folder) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1200-minimum-absolute-difference](https://github.com/kiruthigaa15/Leetcode-/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1859-sorting-the-sentence](https://github.com/kiruthigaa15/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/kiruthigaa15/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kiruthigaa15/Leetcode-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/kiruthigaa15/Leetcode-/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kiruthigaa15/Leetcode-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kiruthigaa15/Leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1720-decode-xored-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1720-decode-xored-array) |
 ## Stack
