@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kiruthigaa15/Leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1646-get-maximum-in-generated-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiruthigaa15/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3379-transformed-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/3379-transformed-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/kiruthigaa15/Leetcode-/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/kiruthigaa15/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kiruthigaa15/Leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kiruthigaa15/Leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1598-crawler-log-folder](https://github.com/kiruthigaa15/Leetcode-/tree/master/1598-crawler-log-folder) |
 | [1629-slowest-key](https://github.com/kiruthigaa15/Leetcode-/tree/master/1629-slowest-key) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/kiruthigaa15/Leetcode-/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kiruthigaa15/Leetcode-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kiruthigaa15/Leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kiruthigaa15/Leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1720-decode-xored-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1720-decode-xored-array) |
 ## Stack
