@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/kiruthigaa15/Leetcode-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/2278-percentage-of-letter-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
 ## Greedy
@@ -308,4 +310,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kiruthigaa15/Leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
