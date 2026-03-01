@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/kiruthigaa15/Leetcode-/tree/master/1629-slowest-key) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kiruthigaa15/Leetcode-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1678-goal-parser-interpretation](https://github.com/kiruthigaa15/Leetcode-/tree/master/1678-goal-parser-interpretation) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1773-count-items-matching-a-rule](https://github.com/kiruthigaa15/Leetcode-/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/kiruthigaa15/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kiruthigaa15/Leetcode-/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kiruthigaa15/Leetcode-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
 |  |
