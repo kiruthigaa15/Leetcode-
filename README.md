@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kiruthigaa15/Leetcode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kiruthigaa15/Leetcode-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1598-crawler-log-folder](https://github.com/kiruthigaa15/Leetcode-/tree/master/1598-crawler-log-folder) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1629-slowest-key](https://github.com/kiruthigaa15/Leetcode-/tree/master/1629-slowest-key) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/kiruthigaa15/Leetcode-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kiruthigaa15/Leetcode-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kiruthigaa15/Leetcode-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kiruthigaa15/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Divide and Conquer
 |  |
