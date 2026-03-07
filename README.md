@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kiruthigaa15/Leetcode-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kiruthigaa15/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/kiruthigaa15/Leetcode-/tree/master/0799-champagne-tower) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/kiruthigaa15/Leetcode-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/kiruthigaa15/Leetcode-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kiruthigaa15/Leetcode-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kiruthigaa15/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/kiruthigaa15/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/kiruthigaa15/Leetcode-/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kiruthigaa15/Leetcode-/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/kiruthigaa15/Leetcode-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiruthigaa15/Leetcode-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
