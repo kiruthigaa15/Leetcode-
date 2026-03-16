@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/kiruthigaa15/Leetcode-/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/kiruthigaa15/Leetcode-/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/kiruthigaa15/Leetcode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [0942-di-string-match](https://github.com/kiruthigaa15/Leetcode-/tree/master/0942-di-string-match) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kiruthigaa15/Leetcode-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [0812-largest-triangle-area](https://github.com/kiruthigaa15/Leetcode-/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/kiruthigaa15/Leetcode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/kiruthigaa15/Leetcode-/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/kiruthigaa15/Leetcode-/tree/master/1154-day-of-the-year) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
+| [0892-surface-area-of-3d-shapes](https://github.com/kiruthigaa15/Leetcode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/kiruthigaa15/Leetcode-/tree/master/0812-largest-triangle-area) |
+| [0892-surface-area-of-3d-shapes](https://github.com/kiruthigaa15/Leetcode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/kiruthigaa15/Leetcode-/tree/master/1037-valid-boomerang) |
 ## Linked List
