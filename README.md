@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1991-find-the-middle-index-in-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kiruthigaa15/Leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kiruthigaa15/Leetcode-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/2460-apply-operations-to-an-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/kiruthigaa15/Leetcode-/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kiruthigaa15/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kiruthigaa15/Leetcode-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Math
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kiruthigaa15/Leetcode-/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kiruthigaa15/Leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kiruthigaa15/Leetcode-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/kiruthigaa15/Leetcode-/tree/master/0086-partition-list) |
 | [0696-count-binary-substrings](https://github.com/kiruthigaa15/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0942-di-string-match](https://github.com/kiruthigaa15/Leetcode-/tree/master/0942-di-string-match) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kiruthigaa15/Leetcode-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/2460-apply-operations-to-an-array) |
 ## Trie
 |  |
