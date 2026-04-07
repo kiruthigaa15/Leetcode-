@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kiruthigaa15/Leetcode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1436-destination-city](https://github.com/kiruthigaa15/Leetcode-/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kiruthigaa15/Leetcode-/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kiruthigaa15/Leetcode-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/kiruthigaa15/Leetcode-/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1991-find-the-middle-index-in-array) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
