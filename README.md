@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kiruthigaa15/Leetcode-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/2460-apply-operations-to-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kiruthigaa15/Leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
