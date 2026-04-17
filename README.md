@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kiruthigaa15/Leetcode-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/2460-apply-operations-to-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiruthigaa15/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2460-apply-operations-to-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/2460-apply-operations-to-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3379-transformed-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/3379-transformed-array) |
 ## Dynamic Programming
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1980-find-unique-binary-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/2278-percentage-of-letter-in-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/kiruthigaa15/Leetcode-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kiruthigaa15/Leetcode-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
