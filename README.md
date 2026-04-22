@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kiruthigaa15/Leetcode-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/2460-apply-operations-to-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2717-semi-ordered-permutation](https://github.com/kiruthigaa15/Leetcode-/tree/master/2717-semi-ordered-permutation) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/kiruthigaa15/Leetcode-/tree/master/2784-check-if-array-is-good) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kiruthigaa15/Leetcode-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2460-apply-operations-to-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/2460-apply-operations-to-an-array) |
+| [2717-semi-ordered-permutation](https://github.com/kiruthigaa15/Leetcode-/tree/master/2717-semi-ordered-permutation) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3379-transformed-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/3379-transformed-array) |
 ## Dynamic Programming
