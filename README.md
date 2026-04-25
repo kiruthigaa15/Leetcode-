@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1720-decode-xored-array) |
 | [1773-count-items-matching-a-rule](https://github.com/kiruthigaa15/Leetcode-/tree/master/1773-count-items-matching-a-rule) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/kiruthigaa15/Leetcode-/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kiruthigaa15/Leetcode-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kiruthigaa15/Leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/kiruthigaa15/Leetcode-/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kiruthigaa15/Leetcode-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kiruthigaa15/Leetcode-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Counting
