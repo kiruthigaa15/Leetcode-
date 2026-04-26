@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/kiruthigaa15/Leetcode-/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/kiruthigaa15/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1370-increasing-decreasing-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kiruthigaa15/Leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1436-destination-city](https://github.com/kiruthigaa15/Leetcode-/tree/master/1436-destination-city) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kiruthigaa15/Leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/kiruthigaa15/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1370-increasing-decreasing-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/kiruthigaa15/Leetcode-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/kiruthigaa15/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/kiruthigaa15/Leetcode-/tree/master/1207-unique-number-of-occurrences) |
+| [1370-increasing-decreasing-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/kiruthigaa15/Leetcode-/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/kiruthigaa15/Leetcode-/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
