@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/kiruthigaa15/Leetcode-/tree/master/0705-design-hashset) |
 | [0812-largest-triangle-area](https://github.com/kiruthigaa15/Leetcode-/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/kiruthigaa15/Leetcode-/tree/master/0892-surface-area-of-3d-shapes) |
+| [0941-valid-mountain-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/kiruthigaa15/Leetcode-/tree/master/0942-di-string-match) |
 | [0999-available-captures-for-rook](https://github.com/kiruthigaa15/Leetcode-/tree/master/0999-available-captures-for-rook) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/kiruthigaa15/Leetcode-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
