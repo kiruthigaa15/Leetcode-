@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0598-range-addition-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/0598-range-addition-ii) |
 | [0704-binary-search](https://github.com/kiruthigaa15/Leetcode-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kiruthigaa15/Leetcode-/tree/master/0705-design-hashset) |
 | [0812-largest-triangle-area](https://github.com/kiruthigaa15/Leetcode-/tree/master/0812-largest-triangle-area) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
+| [0598-range-addition-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/0598-range-addition-ii) |
 | [0812-largest-triangle-area](https://github.com/kiruthigaa15/Leetcode-/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/kiruthigaa15/Leetcode-/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kiruthigaa15/Leetcode-/tree/master/1030-matrix-cells-in-distance-order) |
