@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [0598-range-addition-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/0598-range-addition-ii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kiruthigaa15/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/kiruthigaa15/Leetcode-/tree/master/0086-partition-list) |
 | [0705-design-hashset](https://github.com/kiruthigaa15/Leetcode-/tree/master/0705-design-hashset) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
