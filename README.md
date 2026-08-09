@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/kiruthigaa15/Leetcode-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3719-longest-balanced-subarray-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/kiruthigaa15/Leetcode-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2784-check-if-array-is-good](https://github.com/kiruthigaa15/Leetcode-/tree/master/2784-check-if-array-is-good) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
+| [3745-maximize-expression-of-three-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Math
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kiruthigaa15/Leetcode-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Database
 |  |
 | ------- |
