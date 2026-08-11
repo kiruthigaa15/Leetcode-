@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kiruthigaa15/Leetcode-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0598-range-addition-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/0598-range-addition-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kiruthigaa15/Leetcode-/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kiruthigaa15/Leetcode-/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kiruthigaa15/Leetcode-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
