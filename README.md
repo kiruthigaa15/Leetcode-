@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/kiruthigaa15/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/kiruthigaa15/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/0796-rotate-string) |
