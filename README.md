@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/kiruthigaa15/Leetcode-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kiruthigaa15/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [0598-range-addition-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/0598-range-addition-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/kiruthigaa15/Leetcode-/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/kiruthigaa15/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/kiruthigaa15/Leetcode-/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/kiruthigaa15/Leetcode-/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/0796-rotate-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiruthigaa15/Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/kiruthigaa15/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0705-design-hashset](https://github.com/kiruthigaa15/Leetcode-/tree/master/0705-design-hashset) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/kiruthigaa15/Leetcode-/tree/master/1189-maximum-number-of-balloons) |
