@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kiruthigaa15/Leetcode-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kiruthigaa15/Leetcode-/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/kiruthigaa15/Leetcode-/tree/master/0075-sort-colors) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0598-range-addition-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kiruthigaa15/Leetcode-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
@@ -394,12 +397,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/kiruthigaa15/Leetcode-/tree/master/1382-balance-a-binary-search-tree) |
 ## Segment Tree
 |  |
