@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3945-digit-frequency-score](https://github.com/kiruthigaa15/Leetcode-/tree/master/3945-digit-frequency-score) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/kiruthigaa15/Leetcode-/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Simulation
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/kiruthigaa15/Leetcode-/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Greedy
 |  |
 | ------- |
