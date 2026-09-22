@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kiruthigaa15/Leetcode-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/kiruthigaa15/Leetcode-/tree/master/3634-minimum-removals-to-balance-array) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/3714-longest-balanced-substring-ii) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/kiruthigaa15/Leetcode-/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/3745-maximize-expression-of-three-elements) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/kiruthigaa15/Leetcode-/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Database
 |  |
 | ------- |
