@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kiruthigaa15/Leetcode-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/kiruthigaa15/Leetcode-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3945-digit-frequency-score](https://github.com/kiruthigaa15/Leetcode-/tree/master/3945-digit-frequency-score) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/kiruthigaa15/Leetcode-/tree/master/2833-furthest-point-from-origin) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/kiruthigaa15/Leetcode-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3713-longest-balanced-substring-i) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kiruthigaa15/Leetcode-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/kiruthigaa15/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiruthigaa15/Leetcode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/kiruthigaa15/Leetcode-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Counting
 |  |
